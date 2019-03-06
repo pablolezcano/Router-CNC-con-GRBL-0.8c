@@ -16,3 +16,4 @@ El primer diseño que tuvo el CNC fue con uno sacado de internet (link de Taring
 
 ![CNC v1 - Armando estructura (2\)](https://raw.githubusercontent.com/pablolezcano/Router-CNC-con-GRBL-0.8c/master/imagenes/CNC%20v1%20-%20Armando%20estructura%20(5).jpg)
 
+Última actualización: 6/3/2019
